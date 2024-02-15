@@ -1,6 +1,7 @@
 # Primera tasca APA 2023: Anàlisi fitxer de so
 
-## Nom i cognoms:
+## Nom i cognoms: Sonia Sahuquillo Guillén   
+##                Marcel Farelo de la Orden
 
 ## Representació temporal i freqüencial de senyals d'àudio
 
